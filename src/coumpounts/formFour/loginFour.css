@@ -1,0 +1,132 @@
+#container123 {
+  margin-block-start: 120px;
+}
+#fristdiv {
+  background-color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border-radius: 12px;
+}
+#twodiv {
+  background-color: #0652dd;
+  margin: -23px;
+  z-index: 1;
+  border: 1px solid white;
+  -webkit-box-shadow: -9px 8px 35px -8px rgba(0, 0, 0, 0.49);
+  -moz-box-shadow: -9px 8px 35px -8px rgba(0, 0, 0, 0.49);
+  box-shadow: -9px 8px 35px -8px rgba(0, 0, 0, 0.49);
+  padding: 75px;
+}
+#threediv {
+  background-color: white;
+  border-radius: 12px;
+  text-align: left;
+}
+#imageoflogo123 {
+  width: 30%;
+  margin-block-start: 35px;
+}
+#listnav {
+  list-style-type: none;
+  margin-block-start: 70px;
+  padding: 0;
+}
+#PersonPinIcons {
+  cursor: pointer;
+}
+#PersonPinIcon,
+#PersonPinIcons,
+#PersonPinIcon1,
+#PersonPinIcon11,
+#LoopIcon {
+  padding: 20px;
+  line-height: 12px;
+  color: #bbb;
+  font-size: x-small;
+  font-family: Bahnschrift;
+}
+#PersonPinIcon1,
+#LoopIcon {
+  cursor: pointer;
+}
+#PersonPinIcon {
+  border-left: 10px solid #0652dd;
+}
+
+#PersonPinIcon11 {
+  border-left: 10px solid #0652dd;
+}
+#title1 {
+  color: #bbb;
+  font-size: large;
+  font-family: Bahnschrift;
+}
+#welcomeW {
+  color: white;
+  font-family: Bahnschrift SemiBold;
+}
+#wword {
+  color: rgb(238, 238, 238);
+  font-size: large;
+  font-family: Bahnschrift;
+}
+
+#allword {
+  margin-block-start: 40px;
+}
+#footer {
+  margin-block-start: 63%;
+  color: white;
+}
+#footer1 {
+  margin: 6px;
+  font-size: small;
+}
+#divnav21 {
+  padding: 35px;
+  margin-block-start: 35px;
+  color: #bbb;
+  font-family: Bahnschrift SemiBold;
+}
+#bold12 {
+  color: #0652dd;
+}
+#email11,
+#password11 {
+  border: none;
+  margin-block-end: 10px;
+  inline-size: 100%;
+  block-size: 6vh;
+  background-color: white !important;
+  outline: none !important;
+  border: 2px solid #0652dd;
+}
+#email11:focus {
+  border: none;
+  -webkit-box-shadow: -17px 19px 78px -16px rgba(15, 4, 15, 0.72);
+  -moz-box-shadow: -17px 19px 78px -16px rgba(15, 4, 15, 0.72);
+  box-shadow: -17px 19px 78px -16px rgba(15, 4, 15, 0.72);
+}
+#password11:focus {
+  border: none;
+  -webkit-box-shadow: -17px 19px 78px -16px rgba(15, 4, 15, 0.72);
+  -moz-box-shadow: -17px 19px 78px -16px rgba(15, 4, 15, 0.72);
+  box-shadow: -17px 19px 78px -16px rgba(15, 4, 15, 0.72);
+}
+#sumbit1233 {
+  background-color: #0652dd;
+  width: 50px;
+  color: white;
+  border-radius: 50px;
+  height: 6vh;
+  margin-inline-start: 50%;
+}
+#undewater {
+  margin-block-start: 60px;
+}
+
+#signup123 {
+  color: #0652dd;
+  cursor: pointer;
+}

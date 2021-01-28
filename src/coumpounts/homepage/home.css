@@ -1,0 +1,436 @@
+#homenav {
+  background-color: white;
+  padding-inline-start: 12px;
+  padding-block-start: 12px;
+  height: 7.5vh;
+  border-bottom: 1px solid white;
+  position: fixed;
+  z-index: 1;
+}
+
+#homelog {
+  width: 35px;
+  margin-block-start: 2px;
+}
+#seacherHome {
+  width: 80%;
+  border: none;
+  outline: none;
+  background-color: rgb(241, 241, 241);
+}
+#iconsSeacher {
+  width: 12%;
+}
+
+#wholeSeacher {
+  margin-block-start: -41px;
+  margin-inline-start: 45px;
+  background-color: rgb(241, 241, 241);
+  width: 80%;
+  height: 6vh;
+  padding: 8px;
+  border-radius: 20px;
+}
+#navcentre {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+#iconsc {
+  margin-block-start: 1px;
+  height: 6vh;
+}
+#HomeIcon,
+#ChatIcon,
+#HomeIcon1,
+#ChatIcon1,
+#SettingsIcon {
+  width: 20%;
+  font-size: 35px;
+  margin: 10px;
+  cursor: pointer;
+}
+#SettingsIcon:hover {
+  border-bottom: 3px solid #0652dd;
+  color: #0652dd;
+}
+#ChatIcon:hover {
+  border-bottom: 3px solid #0652dd;
+  color: #0652dd;
+}
+#HomeIcon1:hover {
+  border-bottom: 3px solid #0652dd;
+  color: #0652dd;
+}
+
+#ChatIcon1 {
+  border-bottom: 3px solid #0652dd;
+  color: #0652dd;
+}
+#HomeIcon {
+  border-bottom: 3px solid #0652dd;
+  color: #0652dd;
+}
+#rightnav {
+  text-align: center;
+}
+#person {
+  width: 30px;
+  height: 30px;
+  border-radius: 12px;
+  margin: 6px;
+}
+#image121 {
+  text-align: center;
+  border-radius: 20px;
+  height: 7vh;
+  width: 20vh;
+  margin-block-start: -11px;
+}
+#image121:hover {
+  background-color: rgb(241, 241, 241);
+}
+#NotificationsIcon,
+#ExitToAppIcon {
+  background-color: rgb(241, 241, 241);
+
+  margin: 10px;
+  margin-block-start: -1px;
+  width: 40px;
+  height: 4vh;
+  border-radius: 12px;
+  font-size: 25px;
+  cursor: pointer;
+}
+#NotificationsIcon:hover {
+  opacity: 0.6;
+  color: #0652dd;
+}
+#ExitToAppIcon:hover {
+  opacity: 0.6;
+  color: #0652dd;
+}
+#alldivsa {
+  width: 100%;
+  margin: 0;
+  display: inline-flex;
+  margin-block-start: 58px;
+}
+#left1 {
+  width: 100%;
+  height: 50vh;
+  position: fixed;
+}
+#centre1 {
+  margin-inline-start: 23%;
+}
+#right1 {
+  position: fixed;
+  float: right !important;
+  right: 1%;
+  margin-block-start: 50px;
+}
+#profilewhole {
+  background-color: white;
+  margin-block-start: 50px !important;
+  height: 35vh;
+  margin: 15px;
+  border-radius: 12px !important;
+  cursor: pointer;
+}
+#profileinto {
+  height: 15vh;
+  text-align: center;
+}
+/* 
+#circlure {
+  height: 35%;
+  width: 32%;
+  position: absolute;
+  bottom: 35%;
+  left: 30%;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  border-style: double;
+  border-color: #0652dd;
+} */
+#Capture {
+  width: 100%;
+  height: 60%;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+.Capture1 {
+  width: 60% !important;
+}
+#imagecyr {
+  display: inline-block;
+  background-color: #dfe4ea;
+  height: 100%;
+  width: 38%;
+  border-radius: 50%;
+  margin-block-start: -80px;
+}
+#nameofuser {
+  color: #0652dd;
+  font-size: large;
+}
+#follower,
+#follower1 {
+  cursor: pointer;
+}
+#follower:hover {
+  color: #0652dd;
+}
+#follower1:hover {
+  color: #0652dd;
+}
+#webword {
+  margin: 13px;
+  font-size: small;
+  margin-block-start: 20%;
+  text-align: center;
+}
+#wholeSponsored {
+  margin: 13px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+#wholeSponsored:hover {
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+}
+#wordSponsored {
+  color: rgb(51, 51, 51);
+  text-align: left;
+  margin-inline-start: 30px;
+}
+#showtime {
+  width: 100%;
+  border-radius: 12px;
+}
+#nana {
+  line-height: 10px;
+}
+#nana1 {
+  font-size: small;
+  color: #a3a3a3;
+}
+#Sponsored1 {
+  padding: 12px;
+  line-height: 1px;
+}
+#homecontainer {
+  margin-block-start: 50px !important;
+  overflow: unset;
+}
+#storyme {
+  background-color: white;
+  width: 100%;
+  height: 28vh;
+  border-radius: 12px;
+}
+#showtime1 {
+  width: 100%;
+  height: 15vh;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+#AddCircleIcon {
+  color: #0652dd;
+  border: 3px solid white;
+  font-size: 40px;
+  border-radius: 12px;
+  height: 60%;
+  top: -10px;
+  cursor: pointer;
+
+  position: relative;
+}
+#secondtime {
+  text-align: center;
+}
+#AddCircleIcon:hover {
+  color: #dfe4ea;
+}
+#CreateaStory {
+  cursor: pointer;
+}
+#CreateaStory:hover {
+  color: #0652dd;
+}
+#showtime11 {
+  width: 100%;
+  height: 28vh;
+  border-radius: 12px;
+}
+.dot1 {
+  height: 40px;
+  width: 40px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  border-style: double;
+  border-color: #0652dd;
+  position: absolute;
+  left: 15%;
+  top: 5%;
+  text-align: center;
+}
+#showtime11a {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+#nameinstory {
+  color: white;
+  margin-block-start: -50%;
+  margin-inline-start: 12px;
+  font-size: large;
+}
+#click {
+  cursor: pointer;
+}
+#click:hover {
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+}
+#wholemind {
+  background-color: white;
+  margin-block-start: 20px;
+  border-radius: 12px;
+  padding: 0;
+  cursor: pointer;
+}
+#wholemind:hover {
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+}
+#mindimage {
+  padding: 0;
+}
+#minddiv {
+  padding: 0;
+  border-radius: 12px;
+}
+#mindrow {
+  padding: 0;
+  margin: 0;
+}
+#mindimage {
+  border-radius: 12px;
+}
+#mindimage1 {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  margin: 12px;
+}
+#imagepost1 {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  margin-block-start: 8px;
+}
+#wordmind {
+  background-color: #dfe4ea;
+  margin: 20px;
+  height: 4vh;
+  border-radius: 12px;
+  font-size: large;
+  text-align: left;
+  padding: 3px;
+}
+#wholepost {
+  background-color: white;
+  margin-block-start: 20px;
+  border-radius: 12px;
+}
+
+#namepost1 {
+  font-size: larger;
+  margin-block-start: 10px;
+}
+#unfollowpost1 {
+  margin-block-start: 8px;
+}
+#unfollowpost1:hover {
+  color: white;
+  background-color: #0652dd;
+}
+#longpost {
+  width: 100%;
+}
+#FavoriteBorderIcon,
+#CommentIcon,
+#SendIcon {
+  cursor: pointer;
+  margin: 12px;
+}
+#buttonasdscsd1 {
+  font-size: small;
+  margin-block-start: 7px;
+  color: white;
+  background-color: #0652dd;
+}
+#buttonasdscsd1:hover {
+  color: black;
+  background-color: white;
+}
+#FavoriteBorderIcon:hover {
+  color: #0652dd;
+}
+#CommentIcon:hover {
+  color: #0652dd;
+}
+#SendIcon:hover {
+  color: #0652dd;
+}
+#footerpost {
+  height: 6vh;
+  border-top: 1px solid #dfe4ea;
+}
+#inputpost {
+  color: #868686;
+  margin: 12px;
+}
+#nameof {
+  margin: 12px;
+}
+@media screen and (max-width: 900px) {
+  #right1 {
+    display: none;
+  }
+  #homecontainer {
+    width: 500px !important;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  #left1 {
+    display: none;
+  }
+  #centre1 {
+    position: relative !important;
+    margin: 0;
+    padding: 0;
+  }
+  #homecontainer {
+    width: 700px;
+  }
+  #NotificationsIcon {
+    display: none;
+  }
+  #ExitToAppIcon {
+    display: none;
+  }
+  #person {
+    width: 22px;
+    margin-block-start: 12px;
+  }
+}

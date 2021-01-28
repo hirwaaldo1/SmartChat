@@ -1,0 +1,131 @@
+#body1 {
+  background-color: #dfe4ea !important;
+}
+#divform {
+  inline-size: 60%;
+  block-size: 80vh;
+  background-color: white;
+  margin: auto;
+  margin-block-start: 80px;
+  border-radius: 15px;
+}
+#divformtype {
+  margin: auto;
+  border-radius: 15px;
+}
+.kep-login-facebook {
+  outline: none;
+  border: none;
+  background-color: white;
+}
+#logodiv {
+  margin-top: 10px;
+}
+
+#signintotalk {
+  color: #38ada9;
+  display: grid;
+  margin: 50px;
+  margin-block-end: 22px !important;
+  text-align: center;
+}
+#iconsfrom {
+  text-align: center;
+  padding-left: 12px;
+}
+#icons {
+  display: inline-block;
+  border-radius: 12px;
+  width: 40px;
+  border-radius: 60%;
+  height: 35px;
+  margin-inline-start: 10px;
+}
+#formwords {
+  color: #dfe4ea;
+  margin-block-start: 20px;
+}
+#email,
+#password,
+#name {
+  border: none;
+  margin-block-end: 10px;
+  inline-size: 60%;
+  block-size: 6vh;
+  background-color: #dfe4ea;
+  outline: none !important;
+}
+.formnnana::placeholder {
+  position: relative;
+  left: 12px;
+}
+#underline {
+  color: #dfe4ea;
+  margin-block-start: -10px;
+  width: 20%;
+}
+#forgot {
+  font-size: 15px;
+}
+#sumbit {
+  background-color: #38ada9;
+  width: 200px;
+  color: white;
+  border-radius: 50px;
+  height: 6vh;
+}
+#forgotone {
+  font-size: 15px;
+  margin-block-start: -15px;
+}
+#sumbitone {
+  background-color: #38ada9;
+  width: 200px;
+  color: white;
+  border-radius: 50px;
+  height: 6vh;
+  margin-block-start: -12px;
+}
+#logoform {
+  color: #38ada9;
+}
+#Hello {
+  text-align: center;
+  font-size: xx-large;
+  margin-block-start: 150px;
+}
+
+#Enteryour {
+  text-align: center;
+  color: #dfe4ea;
+}
+
+#sumbit1 {
+  text-align: center;
+  background-color: #38ada9;
+  border: 1px solid white;
+  width: 55%;
+  color: white;
+  border-radius: 50px;
+  height: 6vh;
+  margin-inline-start: 22%;
+  outline: none;
+}
+#sumbit1:hover {
+  background-color: white;
+  color: #38ada9;
+}
+#divform1 {
+  border-top-right-radius: 15px;
+  height: 80vh;
+  border-bottom-right-radius: 15px;
+}
+@media screen and (max-width: 1111px) {
+  #forgot {
+    font-size: 12px;
+    margin-block-start: -25px;
+  }
+  #sumbit {
+    width: 60%;
+  }
+}

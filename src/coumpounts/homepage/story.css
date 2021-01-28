@@ -1,0 +1,78 @@
+#borstort {
+  background-color: white;
+}
+#seestory {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  cursor: not-allowed;
+}
+#seestory:hover :not(#Navigate1, #Navigate2) {
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+}
+#alldsdnm {
+  padding-left: 12px;
+}
+#backgroundcolorsd {
+  background-color: rgb(175, 175, 175);
+  color: white;
+  outline: none;
+  font-size: small;
+}
+#linehsdl {
+  position: relative;
+  top: -13px;
+}
+#wordstory {
+  font-size: x-large;
+  padding-left: 18px;
+  cursor: pointer;
+}
+#wordstory22 {
+  margin-block-start: 8px;
+  color: #0652dd;
+  cursor: pointer;
+}
+#Your_Story {
+  padding-left: 18px;
+  font-size: large;
+}
+#lskdm {
+  padding-left: 18px;
+  cursor: pointer;
+}
+#lskdm:hover {
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+}
+#Create_a_Story,
+#Share_a_photo {
+  line-height: 8px;
+  margin-block-start: 2px;
+}
+#Share_a_photo {
+  color: rgb(175, 173, 173);
+  font-size: smaller;
+}
+#Navigate1,
+#Navigate2 {
+  background-color: rgb(167, 167, 167);
+  margin-inline-end: 16px;
+  margin-block-start: -20%;
+  outline: none;
+}
+#Navigate1 {
+  float: left;
+}
+#Navigate2 {
+  float: right;
+}
+#Navigate1 :hover {
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+}
+#Navigate2:hover {
+  filter: blur(0px);
+  -webkit-filter: blur(0px);
+}

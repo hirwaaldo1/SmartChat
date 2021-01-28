@@ -1,0 +1,110 @@
+#container1 {
+  background-color: lightblue;
+  margin: auto;
+  inline-size: 55%;
+  block-size: 80vh;
+  background-color: white;
+  margin: auto;
+  margin-block-start: 80px;
+  -webkit-box-shadow: 2px 2px 18px 1px #31856d;
+  -moz-box-shadow: 2px 2px 18px 1px #31856d;
+  box-shadow: 2px 2px 18px 1px #31856d;
+}
+#divgood {
+  text-align: center;
+  color: #e4e4e4;
+}
+#planyour {
+  margin-block-start: 120px;
+}
+#imageofrok {
+  width: 63%;
+  margin-block-start: 75px;
+}
+#groupofbottom {
+  margin-block-start: 15px;
+}
+#button1 {
+  background-color: rgba(0, 191, 165, 1);
+  color: white;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  font-size: 12px;
+}
+#button2 {
+  background-color: #506479;
+  color: #e4e4e465;
+  border-top-right-radius: 25px;
+  font-size: 12px;
+  border-bottom-right-radius: 25px;
+}
+#button11 {
+  background-color: #506479;
+  color: #e4e4e465;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  font-size: 12px;
+}
+#button22 {
+  background-color: rgba(0, 191, 165, 1);
+
+  color: white;
+  border-top-right-radius: 25px;
+  font-size: 12px;
+  border-bottom-right-radius: 25px;
+}
+#signword {
+  display: inline-flex;
+  margin-inline-start: 40px;
+  margin-block-start: 120px;
+  font-size: 20px;
+}
+#signword1 {
+  margin-inline-start: 8px;
+  color: white;
+}
+
+#formofloginthree {
+  margin-inline-start: 7%;
+  inline-size: 100%;
+  color: white;
+}
+.input {
+  inline-size: 130%;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid #b2bec3;
+  outline: none;
+  box-shadow: none;
+}
+.input::placeholder {
+  color: #e4e4e465;
+  margin: 0;
+  padding: 0;
+}
+#white {
+  color: white;
+  font-size: small;
+}
+#lablethree {
+  padding: 12px;
+}
+switch {
+  color: #e4e4e465;
+}
+#checkbox {
+  transform: scale(1.5);
+  background-color: yellow;
+}
+#sumbitone1 {
+  background-color: #38ada9;
+  width: 150px;
+  color: white;
+  border-radius: 50px;
+  height: 6vh;
+}
+@media screen and (max-width: 1360px) {
+  .input {
+    inline-size: 100%;
+  }
+}

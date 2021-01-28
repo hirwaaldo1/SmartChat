@@ -1,0 +1,149 @@
+#containerAccont {
+  background-color: white;
+  margin-top: 1px;
+  height: 70%;
+}
+#backgroundimage {
+  margin-inline-end: 20%;
+  margin-inline-start: 20%;
+  height: 50vh;
+
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  cursor: pointer;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nsidcx {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  overflow: hidden;
+}
+.gridList {
+  width: 500px;
+}
+#Uploads {
+  background-color: #0652dd;
+  color: white;
+  margin-left: 32%;
+}
+#Uploads1 {
+  background-color: #0652dd;
+  color: white;
+}
+#backgroundimage123 {
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+#AvatarI {
+  position: absolute;
+  margin-block-start: -150px;
+  width: 12%;
+  height: 32%;
+  left: 45%;
+  border: 4px solid white;
+}
+
+#aldosjad {
+  background-color: white;
+  text-align: center;
+  margin-block-start: 80px;
+  font-size: xx-large;
+}
+#homenav123 {
+  background-color: white;
+  padding-inline-start: 12px;
+  padding-block-start: 12px;
+  height: 7.5vh;
+  border-bottom: 1px solid white;
+}
+.About,
+.Friends,
+#Photos {
+  display: inline-block;
+  font-size: large;
+  margin: 12px;
+  cursor: default;
+  height: 4vh;
+  border-bottom: 3px solid #0652dd;
+}
+#edisda {
+  display: inline-block;
+  font-size: small;
+  margin: 12px;
+  cursor: pointer;
+  height: 2.5vh;
+  color: #0652dd;
+}
+#edisda:hover {
+  border-bottom: 1px solid #0652dd;
+}
+#allnavsa {
+  margin-block-start: 20px;
+}
+#Aboutdiv {
+  background-color: white;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-right: 1px solid gray;
+}
+#Photesdiv {
+  background-color: white;
+  border-right: 1px solid gray;
+}
+#Friendsdiv {
+  background-color: white;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+#headerAbout {
+  font-size: x-large;
+}
+#oaoaoaa {
+  font-size: smaller;
+  color: rgb(149, 149, 149);
+}
+@media screen and (max-width: 960px) {
+  #backgroundimage {
+    display: none;
+  }
+  #backgroundimage123 {
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    width: 100%;
+  }
+}
+#nasdjl {
+  cursor: pointer;
+}
+#nasdjl:hover {
+  background-color: gainsboro;
+}
+#buttonasdsc {
+  font-size: small;
+  margin-block-start: 7px;
+}
+#buttonasdsc:hover {
+  color: white;
+  background-color: #0652dd;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #0652dd;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #538efd;
+}
+body {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,43 @@
+#NotificationsIcon1 {
+  background-color: #0652dd;
+  color: white;
+  border-radius: 12px;
+  margin: 10px;
+  margin-bottom: 3px !important;
+  margin-block-start: -4px;
+  width: 40px;
+  height: 4vh;
+  border-radius: 12px;
+  font-size: 25px;
+  cursor: pointer;
+}
+#Notificationswholef {
+  margin-block-start: 40px;
+  margin-block-end: -42px;
+  padding: 12px;
+  font-family: Helvetica;
+}
+#Notificationsfull {
+  background-color: white;
+  height: 6vh;
+  border-radius: 12px;
+  border: 2px solid gainsboro;
+}
+#SendIconsda {
+  padding: 0;
+  margin-top: 8px;
+}
+#namedasa {
+  padding: 0;
+  margin-top: 8px;
+}
+#snuaisd {
+  color: #4284ff;
+}
+#avatarfas {
+  padding: 0;
+}
+#postcimas {
+  padding: 0;
+  margin-top: 8px;
+}

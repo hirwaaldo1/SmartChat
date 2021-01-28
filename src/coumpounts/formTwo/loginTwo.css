@@ -1,0 +1,92 @@
+body {
+  background-color: rgb(235, 235, 235);
+}
+#container {
+  margin: auto;
+  margin-block-start: 25px;
+  height: 90vh;
+  border-radius: 15px;
+  border: 1px solid #bbb;
+  font-family: Verdana;
+}
+#aldo {
+  margin: 0;
+  padding: 0;
+  height: 90vh;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+#aldo1 {
+  margin-inline-start: 118px;
+  height: 75vh;
+  -webkit-box-shadow: -14px 3px 29px -6px #31856d;
+  -moz-box-shadow: -14px 3px 29px -6px #31856d;
+  box-shadow: -14px 3px 29px -6px #31856d;
+}
+#divone {
+  margin-block-start: 60px;
+}
+#imageoflogo {
+  width: 80px;
+  margin-block-start: 200px;
+}
+#paragragh {
+  line-height: 23px;
+}
+#aldo2 {
+  margin-block-start: 60px;
+  -webkit-box-shadow: 7px 3px 13px 2px #cfcfcf;
+  -moz-box-shadow: 7px 3px 13px 2px #d4d4d4;
+  box-shadow: 7px 3px 13px 2px #e6e6e6;
+  height: 75vh;
+}
+
+#need {
+  float: right;
+  cursor: pointer;
+}
+#need:hover {
+  color: #31856d;
+}
+#login1 {
+  text-align: center;
+  position: relative;
+  top: 100px;
+  left: 10%;
+  font-size: large;
+}
+
+#formwords1 {
+  margin: 160px 60px auto 60px;
+  display: grid;
+  line-height: 10px;
+}
+#email1,
+#password1 {
+  height: 5vh;
+  border: 1px solid #cfcfcf;
+}
+#forgot1 {
+  position: relative;
+  top: 25%;
+}
+#sumbit4 {
+  background-color: #55efc4;
+}
+@media screen and (max-width: 800px) {
+  #aldo1 {
+    visibility: hidden;
+  }
+  #divone {
+    visibility: hidden;
+  }
+  #forgot1 {
+    visibility: hidden;
+  }
+  #aldo2 {
+    width: 100%;
+  }
+  #formwords1 {
+    margin-inline-start: 12px;
+  }
+}

@@ -1,0 +1,66 @@
+#wholedivg {
+  margin: 90px;
+  position: absolute;
+}
+#header2a {
+  font-size: small;
+  display: flex;
+  flex: 0.45;
+  margin-block-start: 2px;
+  color: rgb(134, 134, 134);
+}
+#header1a {
+  font-size: large;
+  display: flex;
+  flex: 0.45;
+}
+#editsd {
+  background-color: #0652dd;
+  color: white;
+}
+#emailedits {
+  height: 5vh;
+  width: 35%;
+  border: 2px solid #f1f6fff1;
+  outline: none;
+}
+#emailedits:focus {
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+}
+#boderone {
+  border: 2px solid #f1f6fff1;
+  margin: 12px;
+  border-radius: 12px;
+}
+#panel1bh-header {
+  border: none !important   ;
+}
+#aldogreat {
+  position: fixed;
+  font-size: large;
+  right: 0px;
+  top: 90px;
+  width: 50%;
+  margin: 12px;
+}
+#padding {
+  padding: 12px;
+}
+#Theme {
+  color: #0652dd;
+  font-size: larger;
+}
+.page-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+@media screen and (max-width: 930px) {
+  #aldogreat {
+    display: none;
+  }
+}

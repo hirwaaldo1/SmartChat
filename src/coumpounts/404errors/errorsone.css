@@ -1,0 +1,43 @@
+#wholepage {
+  background-color: white;
+  margin: 30px;
+  height: 90vh;
+  margin-block-start: 35px;
+  border-radius: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-box-shadow: 0px 5px 12px -2px #0652dd;
+  -moz-box-shadow: 0px 5px 12px -2px #0652dd;
+  box-shadow: 0px 5px 12px -2px #0652dd;
+}
+
+#wholepage12 {
+}
+#imageoflogo1 {
+  width: 24px;
+  margin: 12px;
+}
+#rightdiv {
+  margin: 12px;
+}
+#inwhole {
+  text-align: center;
+}
+#fristh3 {
+  color: #0652dd;
+  font-size: 50px;
+  margin-block-start: 60px;
+}
+#pagenotfount {
+  color: #0652dd;
+  font-size: 25px;
+}
+#Sorry {
+  color: rgb(156, 156, 156);
+}
+#here {
+  color: #0652dd;
+}
+#imageoflogo1e {
+  width: 40%;
+  margin-block-start: 30px;
+}
